@@ -10,4 +10,4 @@
 
 第三次作业：[作业部落](https://www.zybuluo.com/Tianchaoyong/note/400361)
 
-[作业代码]()
+   [代码](https://github.com/tianchaoyong/computationalphysics_N2013301020049/blob/master/Codes/the_3rd_homework%20code.py)
