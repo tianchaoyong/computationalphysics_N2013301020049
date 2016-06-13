@@ -24,5 +24,7 @@
 
 第五次作业：练习1.5-原子转换
 
+   [作业部落](https://www.zybuluo.com/Tianchaoyong/note/405717)
+
    [代码](https://github.com/tianchaoyong/computationalphysics_N2013301020049/blob/master/Codes/the%205th%20homework%20code.py)
 
