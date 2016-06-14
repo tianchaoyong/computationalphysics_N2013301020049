@@ -11,7 +11,7 @@ Created on Wed Jun 08 11:48:46 2016
 import numpy as np
 import matplotlib.pyplot as plt
 #--------------------------------------------------------------------
-tao=1.0
+tau=1.0
 N_A=[100.0]
 N_B=[0.0]
 t_list=[0.0]
@@ -23,8 +23,8 @@ max_t=input('Please input your time parameter then press <enter>: ')
 n=int(max_t/dt)
 
 for i in range(n+1):
-    a=N_A[-1]+(N_B[-1]/tao-N_A[-1]/tao)*dt
-    b=N_B[-1]+(N_A[-1]/tao-N_B[-1]/tao)*dt
+    a=N_A[-1]+(N_B[-1]/tau-N_A[-1]/tau)*dt
+    b=N_B[-1]+(N_A[-1]/tau-N_B[-1]/tau)*dt
     c=(i+1)*dt
     N_A.append(a)
     N_B.append(b)
@@ -49,8 +49,8 @@ while abs(N_A[-1]-N_B[-1])>0.000001:
     n=int(max_t/dt)
 
     for i in range(n+1):
-        a=N_A[-1]+(N_B[-1]/tao-N_A[-1]/tao)*dt
-        b=N_B[-1]+(N_A[-1]/tao-N_B[-1]/tao)*dt
+        a=N_A[-1]+(N_B[-1]/tau-N_A[-1]/tau)*dt
+        b=N_B[-1]+(N_A[-1]/tau-N_B[-1]/tau)*dt
         N_A.append(a)
         N_B.append(b)
 else:
