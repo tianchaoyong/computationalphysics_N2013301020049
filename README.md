@@ -31,6 +31,6 @@
 期末：
    []()
    [代码1](https://github.com/tianchaoyong/computationalphysics_N2013301020049/blob/master/Codes/lastone/nothing_code.py)
-   []()
+   [代码2](https://github.com/tianchaoyong/computationalphysics_N2013301020049/blob/master/Codes/lastone/resistance_code.py)
    []()
    []()
