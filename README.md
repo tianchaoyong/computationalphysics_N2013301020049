@@ -30,7 +30,7 @@
 
 期末：
 
-   []()
+   [作业部落](https://www.zybuluo.com/Tianchaoyong/note/406947)
  
    [代码1](https://github.com/tianchaoyong/computationalphysics_N2013301020049/blob/master/Codes/lastone/nothing_code.py)
  
