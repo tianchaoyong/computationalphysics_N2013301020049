@@ -41,5 +41,5 @@
    [代码4](https://github.com/tianchaoyong/computationalphysics_N2013301020049/blob/master/Codes/lastone/all_code.py)
 
 量子力学第一次作业：
-   
+
    [作业部落](https://www.zybuluo.com/mdeditor#563346)
