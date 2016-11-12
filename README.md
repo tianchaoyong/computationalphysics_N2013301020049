@@ -42,4 +42,4 @@
 
 量子力学第一次作业：
 
-   [作业部落](https://www.zybuluo.com/mdeditor#563346)
+   [作业部落](https://www.zybuluo.com/mdeditor#563346-full-reader)
